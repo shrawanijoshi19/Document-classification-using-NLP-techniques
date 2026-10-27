@@ -1,9 +1,9 @@
 # Document Classification using NLP
 
 **ML Minor Project**  
-**Author:** Shrawani Joshi  
+**Author:** Shrawani Shrikant Joshi  
 **Subject:** Machine Learning  
-**Year:** 2025-26  
+**Year:** 2026-27  
 
 ---
 
