@@ -1,6 +1,6 @@
 # Document Classification using NLP
 
-**ML Minor Project**  
+**ML Major Project**  
 **Author:** Shrawani Shrikant Joshi  
 **Subject:** Machine Learning  
 **Year:** 2026-27  
